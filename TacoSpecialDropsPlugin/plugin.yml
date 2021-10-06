@@ -1,0 +1,13 @@
+name: TacoSpecialDropsPlugin
+main: tbtaco.TacoSpecialDropsPlugin.TacoSpecialDropsPlugin
+version: 7.77.777.77.7
+commands:
+    TacoSpecialDropsPlugin:
+        description: Base command for the TacoSpecialDropsPlugin plugin
+        usage: /TacoSpecialDropsPlugin
+    TacoDrawing:
+        description: Base command for the TacoSpecialDropsPlugin plugin
+        usage: /TacoDrawing
+    TD:
+        description: Base command for the TacoSpecialDropsPlugin plugin
+        usage: /TD

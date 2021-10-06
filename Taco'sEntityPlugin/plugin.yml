@@ -1,0 +1,10 @@
+name: TacosEntityPlugin
+main: tbtaco.TacosEntityPlugin.TacosEntityPlugin
+version: 7.77.777.77.7
+commands:
+    TacosEntityPlugin:
+        description: Base command for the TacosEntityPlugin plugin
+        usage: /TacosEntityPlugin
+    Entity:
+        description: Short for /TacosEntityPlugin
+        usage: /Entity

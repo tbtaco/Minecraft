@@ -1,0 +1,16 @@
+name: IgnCheck
+main: tbtaco.ignCheck.Main
+version: 7.7.7
+commands:
+    IgnCheck:
+        description: Base Command For The IgnCheck Plugin
+        usage: /IgnCheck
+    Names:
+        description: Short For /IgnCheck
+        usage: /Names
+    Name:
+        description: Short For /IgnCheck
+        usage: /Name
+    N:
+        description: Short For /IgnCheck
+        usage: /N

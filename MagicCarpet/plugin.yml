@@ -1,0 +1,7 @@
+name: MagicCarpet
+main: tbtaco.MagicCarpet.MagicCarpet
+version: 7.7.7
+commands:
+    MagicCarpet:
+        description: Base Command For The MagicCarpet Plugin
+        usage: /MagicCarpet <Stuff Here>

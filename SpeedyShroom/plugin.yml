@@ -1,0 +1,7 @@
+name: SpeedyShroom
+main: tbtaco.SpeedyShroom.SpeedyShroom
+version: 7.77.777.77.7
+commands:
+    SpeedyShroom:
+        description: Gives you a Speedy Shroom (Op Only)
+        usage: /SpeedyShroom
